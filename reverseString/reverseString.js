@@ -7,4 +7,3 @@ function reverse(str) {
   return reversed;
 }
 
-console.log(reverse('hello'));
