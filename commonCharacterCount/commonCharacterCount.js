@@ -31,6 +31,5 @@ function commonCharacterCount(s1, s2) {
   }
   return total;
 }
-  
 
 console.log(commonCharacterCount("aabcc", "adcaa"));
